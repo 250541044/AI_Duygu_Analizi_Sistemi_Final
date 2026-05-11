@@ -24,4 +24,5 @@ Bu proje, **Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendisliği**
 ## ⚙️ Kurulum
 ```bash
 pip install fastapi uvicorn opencv-python onnxruntime numpy
-python main.py```
+python main.py
+```
